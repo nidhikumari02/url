@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "url shortner",
   "main": "index.js",
-  "repository": "https://github.com/ayushparasharAP",
-  "author": "Ayush parashar",
+  "repository": "https://github.com/nidhikumari02",
+  "author": "Nidhi Kumari",
   "license": "MIT",
   "scripts": {
     "start": "nodemon index.js",
